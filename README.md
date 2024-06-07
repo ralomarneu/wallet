@@ -1,4 +1,4 @@
-***1.Use of multi-signature wallet transfer proposal***
+## 1.Use of multi-signature wallet transfer proposal
    
 First open the URL https://ralomarneu.github.io/wallet/#
 
@@ -17,7 +17,7 @@ Click [Create Transfer Proposal] below
 In this way, the transfer proposal is successfully created, and then other multi-signature participants can enter the page to vote. When the rate exceeds 51%, the proposal will be automatically executed.
 
 
-***2.Multi-signature wallet adds the use of multi-signature addresses***
+## 2.Multi-signature wallet adds the use of multi-signature addresses
 
 First open the URL https://ralomarneu.github.io/wallet/#
 
@@ -32,7 +32,7 @@ Click Add below [Create Parameter Proposal]
 In this way, the new signer for the multi-signature wallet is completed.
 
 
-***3.Multi-signature wallet removes the use of multi-signature addresses***
+## 3.Multi-signature wallet removes the use of multi-signature addresses
 
 First open the URL https://ralomarneu.github.io/wallet/#
 
@@ -47,7 +47,7 @@ Click Add below [Create Parameter Proposal]
 In this way, the signer removal for the multi-signature wallet is completed.
 
 
-***4.The use of multi-signature wallet to change the number of multi-signatures***
+## 4.The use of multi-signature wallet to change the number of multi-signatures
 
 First open the URL https://ralomarneu.github.io/wallet/#
 
@@ -62,7 +62,7 @@ Click Add below [Create Parameter Proposal]
 In this way, changing the number of signatures for the multi-signature wallet is completed.
 
 
-***5.How to destroy excess USDT tokens in order to correct the currency limit***
+## 5.How to destroy excess USDT tokens in order to correct the currency limit
 
 First, make sure that there are USDT tokens of the DST chain in the wallet, which can be exchanged through Binance->KAVA->DST or through atomic swap cross-chain transactions.
 
